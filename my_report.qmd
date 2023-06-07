@@ -1,5 +1,6 @@
 ---
 title: "My Report"
+author: "Zoë Turner"
 format: html
 editor: visual
 embed-resources: true
