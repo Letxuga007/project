@@ -1,5 +1,5 @@
 ---
-title: "My Quarto Report"
+title: "My Report"
 author: "Zoë Turner"
 format: html
 editor: visual
