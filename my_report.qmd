@@ -1,6 +1,7 @@
 ---
-title: "My Report"
+title: My Report
 format: html
+author: Person A
 editor: visual
 embed-resources: true
 ---
